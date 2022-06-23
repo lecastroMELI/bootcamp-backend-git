@@ -1,1 +1,1 @@
-Após adicionar o comando git config --global core.hookspath /dev/null foi possível commitar sem problemas
+Após executar o comando ´´´git config --global core.hookspath /dev/null´´´ foi possível commitar sem problemas
